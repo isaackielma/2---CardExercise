@@ -1,0 +1,49 @@
+.outline {
+    border: 1px solid rgb(165, 165, 165);
+    width: 380px;
+    border-radius: 5px;
+}
+
+.image {
+    background-color: rgba(121, 120, 120, 0.782);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    min-height: 100px;
+    color: rgba(240, 248, 255, 0.444);
+    opacity: 80%;
+    height: 250px;
+}
+
+.title-sec {
+    padding: 30px;
+    border-top: 1px solid rgb(125, 125, 125);
+}
+
+h1 {
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+
+.n {
+    margin-block-start: 0em;
+    margin-block-end: 0em
+}
+
+.items {
+    border-top: 1px solid rgb(115, 115, 115);
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    padding: 13px;
+}
+
+.f {
+    border-top: 1px solid rgb(120, 120, 120);
+    padding: 30px;
+    display: flex;
+    gap: 30px;
+    
+
+}
